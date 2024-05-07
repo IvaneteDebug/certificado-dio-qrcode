@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJEqUD33srMLIsjw3yY5utYd8a/XL419RZ0D8h/Xe2JrU3Mt9dUmZVpoN8Y7K3lF6DjTz09i5T01IJ3REWhQnA==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\QRCodeGenerator\\QRCodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAMSUNGS\\.nuget\\packages\\qrcoder\\1.5.1\\qrcoder.1.5.1.nupkg.sha512",
+    "C:\\Users\\SAMSUNGS\\.nuget\\packages\\zxing.net\\0.16.9\\zxing.net.0.16.9.nupkg.sha512"
+  ],
+  "logs": []
+}
